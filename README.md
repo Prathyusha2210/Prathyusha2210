@@ -13,11 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [#21 days coding Challenge](https://booksnbanter.medium.com/21-days-coding-challenge-f91287591e4f?source=rss-dda007776465------2)
 - [Web Developer Jargon Demystified!](https://booksnbanter.medium.com/web-developer-jargon-demystified-e9b8257eb1b0?source=rss-dda007776465------2)
 - [Python String reference cheat sheet!](https://booksnbanter.medium.com/python-string-reference-cheat-sheet-57e1389f8e05?source=rss-dda007776465------2)
 - [Books…the buddies to kill time this lock down.](https://booksnbanter.medium.com/books-the-buddies-to-kill-time-this-lock-down-e87a33cdf048?source=rss-dda007776465------2)
 - [Grab your Github Student Starter Pack! NOW!!](https://booksnbanter.medium.com/grab-your-github-student-starter-pack-now-faff63c7fa6c?source=rss-dda007776465------2)
-- [Hello People, Let’s talk Books and Banter….](https://booksnbanter.medium.com/hello-people-lets-talk-books-and-banter-fba14816bffe?source=rss-dda007776465------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
