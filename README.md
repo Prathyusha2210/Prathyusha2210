@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Structures, Internet of Things, Git, Bootstrap**
 
-- 📫 How to reach me <a href = "mailto: nimmagaddasaiprathyusha@gmail.com"> Send me an Email </a> 
+- 📫 How to reach me <a href = "mailto:nimmagaddasaiprathyusha@gmail.com"> Send me an Email </a> 
 
 - 👋 Say Hi to me on my socials [Linktree](https://linktr.ee/Prathyusha2000)
 
