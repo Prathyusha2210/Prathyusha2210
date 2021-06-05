@@ -3,13 +3,15 @@
 
 - 🌱 I’m currently learning **react.js and node.js**
 
-- 👨‍💻 All of my projects are available at [https://prathyusha-nimmagadda.netlify.app/](https://prathyusha-nimmagadda.netlify.app/)
+- 👨‍💻 All of my projects are available at [Netlify Portfolio](https://prathyusha-nimmagadda.netlify.app/)
 
-- 📝 I write articles about the books I read and my learning journey on [https://booksnbanter.medium.com/](https://booksnbanter.medium.com/)
+- 📝 I write articles about the books I read and my learning journey on [Books and Banter Blog](https://www.prathyusha.tech)
 
 - 💬 Ask me about **Data Structures, Internet of Things, Git, Bootstrap**
 
 - 📫 How to reach me **nimmagaddasaiprathyusha@gmail.com**
+
+- 👋 Say Hi to me on my socials [Linktree](https://linktr.ee/Prathyusha2000)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
