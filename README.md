@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **react.js and node.js**
 
-- 👨‍💻 All of my projects are available at [https://the-awesome-prathyusha-site.netlify.app/](https://the-awesome-prathyusha-site.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://prathyusha-nimmagadda.netlify.app/](https://prathyusha-nimmagadda.netlify.app/)
 
 - 📝 I write articles about the books I read and my learning journey on [https://booksnbanter.medium.com/](https://booksnbanter.medium.com/)
 
@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/books_n_banter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="books_n_banter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sai prathyusha nimmagadda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sai prathyusha nimmagadda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sai-prathyusha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sai prathyusha nimmagadda" height="30" width="40" /></a>
 <a href="https://medium.com/@booksnbanter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@booksnbanter" height="30" width="40" /></a>
 </p>
 
