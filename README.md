@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **react.js and node.js**
 
-- 👨‍💻 All of my projects are available at [Netlify Portfolio](https://prathyusha-nimmagadda.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://prathyusha-nimmagadda.netlify.app/)
 
-- 📝 I write articles about the books I read and my learning journey on [Books and Banter Blog](https://www.prathyusha.tech)
+- 📝 I write articles about the books I read and my learning journey on [Books and Banter Blog](https://www.prathyusha.tech) make sure to check this out!
 
 - 💬 Ask me about **Data Structures, Internet of Things, Git, Bootstrap**
 
