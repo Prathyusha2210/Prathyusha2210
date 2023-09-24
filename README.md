@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prathyusha</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning **react.js and node.js**
+- 🌱 I’m currently learning **working as PDE 1 at Phenom exploring Java with Spring**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://prathyusha-nimmagadda.netlify.app/)
 
